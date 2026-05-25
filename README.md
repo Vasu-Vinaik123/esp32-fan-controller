@@ -1,5 +1,8 @@
 # ESP32 Temperature-Aware Multi-Mode Motor Controller
 
+🎥 Demo Video: 
+https://youtube.com/shorts/NNXiFTvhVC4?si=DZYjW0_5gbkL0S0K
+
 This is a multi-mode DC motor controller built on the ESP32, using ESP-IDF v6.0 and FreeRTOS. The motor reacts to environmental temperature through a DHT11 sensor or operates in user-selected modes. It shows the basics of real-time embedded firmware.
 
 ## Features
