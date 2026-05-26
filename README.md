@@ -28,7 +28,7 @@ Additional features:
 
 - ESP32 development board
 - L298N H-bridge motor driver
-- 12V DC motor with a 12V 2A power supply
+- 12V DC motor with a 8.4 V power supply(battery pack)
 - DHT11 temperature and humidity sensor
 - 3 LEDs with 220Ω resistors
 - Push button
